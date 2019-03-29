@@ -1,0 +1,563 @@
+.full {
+  position: absolute;
+}
+.scene {
+    position: absolute;
+    overflow: hidden;
+}
+.sky {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-image: url(sky.jpg);
+}
+.cloud {
+    position: absolute;
+    top: 50px;
+    left: 50px;
+    width:100px;
+    height: 20px;
+    border-radius:30px;
+    background:rgb(247, 247, 247);
+  }
+  .cloud1 {
+    position: absolute;
+    top: 40px;
+    left: 57px;
+    width:85px;
+    height: 20px;
+    border-radius:30px;
+    background:rgb(247, 247, 245);
+  }  
+  .cloud2 {
+    position: absolute;
+    top: 28px;
+    left: 67px;
+    width:65px;
+    height: 20px;
+    border-radius:30px;
+    background:rgb(247, 245, 245);
+  }  
+  .cloud3 {
+    position: absolute;
+    top: 20px;
+    left: 85px;
+    width:30px;
+    height: 20px;
+    border-radius:30px;
+    background:rgb(247, 245, 245);
+  } 
+  .cloud5 {
+    position: absolute;
+    top: 50px;
+    left: 450px;
+    width:100px;
+    height: 20px;
+    border-radius:30px;
+    background:rgb(247, 247, 247);
+  }
+  .cloud51 {
+    position: absolute;
+    top: 40px;
+    left: 457px;
+    width:85px;
+    height: 20px;
+    border-radius:30px;
+    background:rgb(247, 247, 245);
+  }  
+  .cloud52 {
+    position: absolute;
+    top: 28px;
+    left: 467px;
+    width:65px;
+    height: 20px;
+    border-radius:30px;
+    background:rgb(247, 245, 245);
+  }  
+  .cloud53 {
+    position: absolute;
+    top: 20px;
+    left: 485px;
+    width:30px;
+    height: 20px;
+    border-radius:30px;
+    background:rgb(247, 245, 245);
+  }   
+  .cloud31 {
+    position: absolute;
+    top: 90px;
+    left: 850px;
+    width:100px;
+    height: 20px;
+    border-radius:30px;
+    background:rgb(247, 247, 247);
+  }
+  .cloud32 {
+    position: absolute;
+    top: 80px;
+    left: 857px;
+    width:85px;
+    height: 20px;
+    border-radius:30px;
+    background:rgb(247, 247, 245);
+  }  
+  .cloud33 {
+    position: absolute;
+    top: 68px;
+    left: 867px;
+    width:65px;
+    height: 20px;
+    border-radius:30px;
+    background:rgb(247, 245, 245);
+  }  
+  .cloud34 {
+    position: absolute;
+    top: 60px;
+    left: 885px;
+    width:30px;
+    height: 20px;
+    border-radius:30px;
+    background:rgb(247, 245, 245);
+  }  
+  .cloud41 {
+    position: absolute;
+    top: 80px;
+    left: 1050px;
+    width:100px;
+    height: 20px;
+    border-radius:30px;
+    background:rgb(247, 247, 247);
+  }
+  .cloud42 {
+    position: absolute;
+    top: 70px;
+    left: 1057px;
+    width:85px;
+    height: 20px;
+    border-radius:30px;
+    background:rgb(247, 247, 245);
+  }  
+  .cloud43 {
+    position: absolute;
+    top: 58px;
+    left: 1067px;
+    width:65px;
+    height: 20px;
+    border-radius:30px;
+    background:rgb(247, 245, 245);
+  }  
+  .cloud44 {
+    position: absolute;
+    top: 50px;
+    left: 1085px;
+    width:30px;
+    height: 20px;
+    border-radius:30px;
+    background:rgb(247, 245, 245);
+  } 
+  .cloud21 {
+    position: absolute;
+    top: 50px;
+    left: 650px;
+    width:100px;
+    height: 20px;
+    border-radius:30px;
+    background:rgb(247, 247, 247);
+  }
+  .cloud22 {
+    position: absolute;
+    top: 40px;
+    left: 657px;
+    width:85px;
+    height: 20px;
+    border-radius:30px;
+    background:rgb(247, 247, 245);
+  }  
+  .cloud23 {
+    position: absolute;
+    top: 28px;
+    left: 667px;
+    width:65px;
+    height: 20px;
+    border-radius:30px;
+    background:rgb(247, 245, 245);
+  }  
+  .cloud24 {
+    position: absolute;
+    top: 20px;
+    left: 685px;
+    width:30px;
+    height: 20px;
+    border-radius:30px;
+    background:rgb(247, 245, 245);
+  } 
+  .cloud11 {
+    position: absolute;
+    top: 70px;
+    left: 245px;
+    width:110px;
+    height: 25px;
+    border-radius:30px;
+    background:rgb(247, 247, 247);
+  }
+  .cloud12 {
+    position: absolute;
+    top: 60px;
+    left: 257px;
+    width:85px;
+    height: 25px;
+    border-radius:30px;
+    background:rgb(247, 247, 245);
+  }  
+  .cloud13 {
+    position: absolute;
+    top: 48px;
+    left: 267px;
+    width:65px;
+    height: 20px;
+    border-radius:30px;
+    background:rgb(247, 245, 245);
+  }  
+  .cloud14 {
+    position: absolute;
+    top: 38px;
+    left: 285px;
+    width:30px;
+    height: 25px;
+    border-radius:10px;
+    background:rgb(247, 245, 245);
+  }  
+
+.desert {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgb(21, 116, 2);
+    border-top: 15px solid rgb(102, 243, 59);
+    top: 65%;
+}
+.bats {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 100;
+    top: 10%;
+    bottom: 20%;
+}
+  .bat {
+    position:absolute;
+    left: -10px;
+    width: 2px;
+    height:2px;
+    background:rgb(0, 0, 0);
+    border-radius:100%;
+    animation: drive 9s infinite;
+    animation-delay: -2.5s;
+  }
+    .bat:before, .bat:after {
+      content:'';
+      position:absolute;
+      top:1px;    
+      background:black;
+      height:1px;
+    }
+    .bat:before {
+      right:100%;
+      width:4px;
+      animation: 1s flapLeft infinite;
+      transform-origin:right center;
+    }
+    .bat:after {
+      left:100%;
+      width:3px; 
+      animation: 2s flapRight infinite;
+      transform-origin:left center;
+    }
+    .bat2 {
+        position:absolute;
+        left: -10px;
+        top: 50px;
+        width: 2px;
+        height:2px;
+        background:rgb(0, 0, 0);
+        border-radius:100%;
+        animation: drive 10s infinite;
+        animation-delay: -2.5s;
+      }
+        .bat2:before, .bat2:after {
+          content:'';
+          position:absolute;
+          top:1px;    
+          background:black;
+          height:1px;
+        }
+        .bat2:before {
+          right:100%;
+          width:4px;
+          animation: 1s flapLeft infinite;
+          transform-origin:right center;
+        }
+        .bat2:after {
+          left:100%;
+          width:3px; 
+          animation: 2s flapRight infinite;
+          transform-origin:left center;
+        }
+    .bat1 {
+        position:absolute;
+        left: -30px;
+        top: 70px;
+        width: 2px;
+        height:2px;
+        background:rgb(0, 0, 0);
+        border-radius:100%;
+        animation: drive 10s infinite;
+        animation-delay: -2.5s;
+      }
+        .bat1:before, .bat1:after {
+          content:'';
+          position:absolute;
+          top:1px;    
+          background:black;
+          height:1px;
+        }
+        .bat1:before {
+          right:100%;
+          width:3px;
+          animation: 1s flapLeft infinite;
+          transform-origin:right center;
+        }
+        .bat1:after {
+          left:100%;
+          width:3px; 
+          animation: 5s flapRight infinite;
+          transform-origin:left center;
+        }
+        .bat3 {
+            position:absolute;
+            left: -30px;
+            top: 100px;
+            width: 2px;
+            height:2px;
+            background:rgb(0, 0, 0);
+            border-radius:100%;
+            animation: drive 11s infinite;
+            animation-delay: -2.5s;
+          }
+            .bat3:before, .bat3:after {
+              content:'';
+              position:absolute;
+              top:1px;    
+              background:black;
+              height:1px;
+            }
+            .bat3:before {
+              right:100%;
+              width:3px;
+              animation: 1s flapLeft infinite;
+              transform-origin:right center;
+            }
+            .bat3:after {
+              left:100%;
+              width:3px; 
+              animation: 5s flapRight infinite;
+              transform-origin:left center;
+            }
+    
+         .bat4 {
+                position:absolute;
+                left: -30px;
+                top: 130px;
+                width: 2px;
+                height:2px;
+                background:rgb(0, 0, 0);
+                border-radius:100%;
+                animation: drive 14s infinite;
+                animation-delay: -2.5s;
+              }
+                .bat4:before, .bat4:after {
+                  content:'';
+                  position:absolute;
+                  top:1px;    
+                  background:black;
+                  height:1px;
+                }
+                .bat4:before {
+                  right:100%;
+                  width:3px;
+                  animation: 1s flapLeft infinite;
+                  transform-origin:right center;
+                }
+                .bat4:after {
+                  left:100%;
+                  width:3px; 
+                  animation: 5s flapRight infinite;
+                  transform-origin:left center;
+                }
+
+                
+    
+
+.road {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+  top: 70%;
+  bottom: 15%;
+  background: rgb(15, 14, 14);
+}
+  .road:after {
+    content:'';
+    width: 100%;
+    position: absolute;
+    top: 50%;
+    left: 0;
+    height: 2px;
+    background: linear-gradient(to left, white, black);
+    background-size: 10px;
+    animation: ants 200ms linear infinite;
+  }
+
+.car {
+  position: absolute;
+  z-index: 10;
+  top: 10px;
+  left: 30%;
+  border-bottom: 10px solid rgba(#ccc,0.5);
+  width: 100px;
+  height: 30px;
+  background:rgb(232, 12, 252);
+  border-radius: 5px 12px 12px 5px;
+  animation: drive 6s infinite;
+}
+  .driver {
+    position:absolute;
+    z-index: 4;
+    width:10px;
+    height:10px;
+    top:-10px;
+    left:65px;
+    background: pink;
+    border-radius: 7px;
+  }
+    .driver:after {
+      content:'';
+      position:absolute;
+      top:100%;
+      left:1px;
+      height:1px;
+      width:2px;
+      background:pink;
+    }
+    .driver:before {
+      content:'';
+      position:absolute;
+      top:-1px;
+      right:1px;
+      width:10px;
+      height:5px;
+      background:rgb(65, 49, 5);
+      border-radius: 5px;
+    }
+  .side-mirror{
+    position:absolute;
+  }
+  .wheel {
+    width: 15px;
+    height: 15px;
+    border-radius: 100%;
+    background: black;
+    position: absolute;
+    bottom: -5px;
+    left: 5px;
+  }
+    .wheel--front {
+      left: auto;
+      right: 5px;
+    }
+    .wheel--front:after {
+      content:'';
+      position: absolute;
+      top: 2px;
+      left: 2px;
+      width: 6px;
+      height: 6px;
+      background: #ccc;
+      border-radius: 100%;
+    }
+    .wheel1 {
+        width: 15px;
+        height: 15px;
+        border-radius: 100%;
+        background: black;
+        position: absolute;
+        bottom: -15px;
+        left: 25px;
+      }
+    
+  div.wheel-cover {
+    position: absolute;
+    background:rgb(250, 133, 133);
+    left:3px;
+    top:2px;
+    width:10px;
+    height:4px;
+    border-bottom:1px solid rgba(#ccc,0.75);
+    border-radius: 20px
+  }
+  .windshield {
+    position: absolute;
+    z-index: 3;
+    bottom: 9px - 1px;
+    height: 8px;
+    width: 0px;
+    background: #ccc;
+    border-right:1px solid #eeeeff;
+    right: 21px;
+    transform: rotate(-45deg);
+  }
+  .door {
+    position: absolute;
+    left:8px;
+    right:8px;
+    height:2px;
+    border-left:1px solid darken(rgb(250, 133, 133),10%);
+    border-right:1px solid darken(rgb(250, 133, 133),10%);
+  }
+    .door:after {
+      content:"";
+      position: absolute;
+      top: 3px;
+      left: 2px;
+      width: 3px;
+      height: 1px;
+      background: #ccc;
+    }
+
+@keyframes drive {
+  0% { transform: translateX(0px) }
+  50% { transform: translateX(750px) }
+}
+@keyframes ants { 
+  to { background-position: -2px; } 
+}
+
+@keyframes flapLeft {
+  0%, 50% { transform: rotate(0) }
+  25% { transform: rotate(45deg) }
+  75% { transform: rotate(-45deg) }
+}
+
+@keyframes flapRight {
+  0%, 50% { transform: rotate(0) }
+  25% { transform: rotate(-45deg) }
+  75% { transform: rotate(45deg) }
+}
